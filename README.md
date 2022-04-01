@@ -38,11 +38,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]([memory game_1](https://user-images.githubusercontent.com/90811892/161193707-f6d8809a-0fe9-4f27-ac71-9dca2ea17051.gif))
-![]([memory game_2](https://user-images.githubusercontent.com/90811892/161193723-27ab0ff8-d9fc-4002-8db8-9a125d84a71d.gif))
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://user-images.githubusercontent.com/90811892/161194977-a9d3448c-67cf-4ec2-8032-471779cecfd4.gif)
+![](https://user-images.githubusercontent.com/90811892/161194999-14873b8c-bd4c-44a1-9f1d-0936f6c60015.gif)
+![](https://user-images.githubusercontent.com/90811892/161195008-d305cd4f-1118-4fdd-8379-63e29521cb25.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
